@@ -1,0 +1,134 @@
+[
+{
+  "directory": "/home/qewa/Coding/raytracer/cmake/cmake_files/Unix Makefiles/Release/clang++",
+  "command": "/usr/bin/clang++  -I/home/qewa/Coding/raytracer/src -I/home/qewa/Coding/raytracer/src/dependencies/imgui -O3 -DNDEBUG -std=c++23 -o CMakeFiles/raytracer.dir/home/qewa/Coding/raytracer/src/Application/gui.cpp.o -c /home/qewa/Coding/raytracer/src/Application/gui.cpp",
+  "file": "/home/qewa/Coding/raytracer/src/Application/gui.cpp",
+  "output": "CMakeFiles/raytracer.dir/home/qewa/Coding/raytracer/src/Application/gui.cpp.o"
+},
+{
+  "directory": "/home/qewa/Coding/raytracer/cmake/cmake_files/Unix Makefiles/Release/clang++",
+  "command": "/usr/bin/clang++  -I/home/qewa/Coding/raytracer/src -I/home/qewa/Coding/raytracer/src/dependencies/imgui -O3 -DNDEBUG -std=c++23 -o CMakeFiles/raytracer.dir/home/qewa/Coding/raytracer/src/Application/main.cpp.o -c /home/qewa/Coding/raytracer/src/Application/main.cpp",
+  "file": "/home/qewa/Coding/raytracer/src/Application/main.cpp",
+  "output": "CMakeFiles/raytracer.dir/home/qewa/Coding/raytracer/src/Application/main.cpp.o"
+},
+{
+  "directory": "/home/qewa/Coding/raytracer/cmake/cmake_files/Unix Makefiles/Release/clang++",
+  "command": "/usr/bin/clang++  -I/home/qewa/Coding/raytracer/src -I/home/qewa/Coding/raytracer/src/dependencies/imgui -O3 -DNDEBUG -std=c++23 -o CMakeFiles/raytracer.dir/home/qewa/Coding/raytracer/src/core/DebugConsole.cpp.o -c /home/qewa/Coding/raytracer/src/core/DebugConsole.cpp",
+  "file": "/home/qewa/Coding/raytracer/src/core/DebugConsole.cpp",
+  "output": "CMakeFiles/raytracer.dir/home/qewa/Coding/raytracer/src/core/DebugConsole.cpp.o"
+},
+{
+  "directory": "/home/qewa/Coding/raytracer/cmake/cmake_files/Unix Makefiles/Release/clang++",
+  "command": "/usr/bin/clang++  -I/home/qewa/Coding/raytracer/src -I/home/qewa/Coding/raytracer/src/dependencies/imgui -O3 -DNDEBUG -std=c++23 -o CMakeFiles/raytracer.dir/home/qewa/Coding/raytracer/src/core/camera.cpp.o -c /home/qewa/Coding/raytracer/src/core/camera.cpp",
+  "file": "/home/qewa/Coding/raytracer/src/core/camera.cpp",
+  "output": "CMakeFiles/raytracer.dir/home/qewa/Coding/raytracer/src/core/camera.cpp.o"
+},
+{
+  "directory": "/home/qewa/Coding/raytracer/cmake/cmake_files/Unix Makefiles/Release/clang++",
+  "command": "/usr/bin/clang++  -I/home/qewa/Coding/raytracer/src -I/home/qewa/Coding/raytracer/src/dependencies/imgui -O3 -DNDEBUG -std=c++23 -o CMakeFiles/raytracer.dir/home/qewa/Coding/raytracer/src/core/interval.cpp.o -c /home/qewa/Coding/raytracer/src/core/interval.cpp",
+  "file": "/home/qewa/Coding/raytracer/src/core/interval.cpp",
+  "output": "CMakeFiles/raytracer.dir/home/qewa/Coding/raytracer/src/core/interval.cpp.o"
+},
+{
+  "directory": "/home/qewa/Coding/raytracer/cmake/cmake_files/Unix Makefiles/Release/clang++",
+  "command": "/usr/bin/clang++  -I/home/qewa/Coding/raytracer/src -I/home/qewa/Coding/raytracer/src/dependencies/imgui -O3 -DNDEBUG -std=c++23 -o CMakeFiles/raytracer.dir/home/qewa/Coding/raytracer/src/core/ray.cpp.o -c /home/qewa/Coding/raytracer/src/core/ray.cpp",
+  "file": "/home/qewa/Coding/raytracer/src/core/ray.cpp",
+  "output": "CMakeFiles/raytracer.dir/home/qewa/Coding/raytracer/src/core/ray.cpp.o"
+},
+{
+  "directory": "/home/qewa/Coding/raytracer/cmake/cmake_files/Unix Makefiles/Release/clang++",
+  "command": "/usr/bin/clang++  -I/home/qewa/Coding/raytracer/src -I/home/qewa/Coding/raytracer/src/dependencies/imgui -O3 -DNDEBUG -std=c++23 -o CMakeFiles/raytracer.dir/home/qewa/Coding/raytracer/src/core/utils/imageLoader.cpp.o -c /home/qewa/Coding/raytracer/src/core/utils/imageLoader.cpp",
+  "file": "/home/qewa/Coding/raytracer/src/core/utils/imageLoader.cpp",
+  "output": "CMakeFiles/raytracer.dir/home/qewa/Coding/raytracer/src/core/utils/imageLoader.cpp.o"
+},
+{
+  "directory": "/home/qewa/Coding/raytracer/cmake/cmake_files/Unix Makefiles/Release/clang++",
+  "command": "/usr/bin/clang++  -I/home/qewa/Coding/raytracer/src -I/home/qewa/Coding/raytracer/src/dependencies/imgui -O3 -DNDEBUG -std=c++23 -o CMakeFiles/raytracer.dir/home/qewa/Coding/raytracer/src/core/utils/perlin.cpp.o -c /home/qewa/Coding/raytracer/src/core/utils/perlin.cpp",
+  "file": "/home/qewa/Coding/raytracer/src/core/utils/perlin.cpp",
+  "output": "CMakeFiles/raytracer.dir/home/qewa/Coding/raytracer/src/core/utils/perlin.cpp.o"
+},
+{
+  "directory": "/home/qewa/Coding/raytracer/cmake/cmake_files/Unix Makefiles/Release/clang++",
+  "command": "/usr/bin/clang++  -I/home/qewa/Coding/raytracer/src -I/home/qewa/Coding/raytracer/src/dependencies/imgui -O3 -DNDEBUG -std=c++23 -o CMakeFiles/raytracer.dir/home/qewa/Coding/raytracer/src/dependencies/imgui/backends/imgui_impl_glfw.cpp.o -c /home/qewa/Coding/raytracer/src/dependencies/imgui/backends/imgui_impl_glfw.cpp",
+  "file": "/home/qewa/Coding/raytracer/src/dependencies/imgui/backends/imgui_impl_glfw.cpp",
+  "output": "CMakeFiles/raytracer.dir/home/qewa/Coding/raytracer/src/dependencies/imgui/backends/imgui_impl_glfw.cpp.o"
+},
+{
+  "directory": "/home/qewa/Coding/raytracer/cmake/cmake_files/Unix Makefiles/Release/clang++",
+  "command": "/usr/bin/clang++  -I/home/qewa/Coding/raytracer/src -I/home/qewa/Coding/raytracer/src/dependencies/imgui -O3 -DNDEBUG -std=c++23 -o CMakeFiles/raytracer.dir/home/qewa/Coding/raytracer/src/dependencies/imgui/backends/imgui_impl_opengl2.cpp.o -c /home/qewa/Coding/raytracer/src/dependencies/imgui/backends/imgui_impl_opengl2.cpp",
+  "file": "/home/qewa/Coding/raytracer/src/dependencies/imgui/backends/imgui_impl_opengl2.cpp",
+  "output": "CMakeFiles/raytracer.dir/home/qewa/Coding/raytracer/src/dependencies/imgui/backends/imgui_impl_opengl2.cpp.o"
+},
+{
+  "directory": "/home/qewa/Coding/raytracer/cmake/cmake_files/Unix Makefiles/Release/clang++",
+  "command": "/usr/bin/clang++  -I/home/qewa/Coding/raytracer/src -I/home/qewa/Coding/raytracer/src/dependencies/imgui -O3 -DNDEBUG -std=c++23 -o CMakeFiles/raytracer.dir/home/qewa/Coding/raytracer/src/dependencies/imgui/backends/imgui_impl_opengl3.cpp.o -c /home/qewa/Coding/raytracer/src/dependencies/imgui/backends/imgui_impl_opengl3.cpp",
+  "file": "/home/qewa/Coding/raytracer/src/dependencies/imgui/backends/imgui_impl_opengl3.cpp",
+  "output": "CMakeFiles/raytracer.dir/home/qewa/Coding/raytracer/src/dependencies/imgui/backends/imgui_impl_opengl3.cpp.o"
+},
+{
+  "directory": "/home/qewa/Coding/raytracer/cmake/cmake_files/Unix Makefiles/Release/clang++",
+  "command": "/usr/bin/clang++  -I/home/qewa/Coding/raytracer/src -I/home/qewa/Coding/raytracer/src/dependencies/imgui -O3 -DNDEBUG -std=c++23 -o CMakeFiles/raytracer.dir/home/qewa/Coding/raytracer/src/dependencies/imgui/imgui.cpp.o -c /home/qewa/Coding/raytracer/src/dependencies/imgui/imgui.cpp",
+  "file": "/home/qewa/Coding/raytracer/src/dependencies/imgui/imgui.cpp",
+  "output": "CMakeFiles/raytracer.dir/home/qewa/Coding/raytracer/src/dependencies/imgui/imgui.cpp.o"
+},
+{
+  "directory": "/home/qewa/Coding/raytracer/cmake/cmake_files/Unix Makefiles/Release/clang++",
+  "command": "/usr/bin/clang++  -I/home/qewa/Coding/raytracer/src -I/home/qewa/Coding/raytracer/src/dependencies/imgui -O3 -DNDEBUG -std=c++23 -o CMakeFiles/raytracer.dir/home/qewa/Coding/raytracer/src/dependencies/imgui/imgui_demo.cpp.o -c /home/qewa/Coding/raytracer/src/dependencies/imgui/imgui_demo.cpp",
+  "file": "/home/qewa/Coding/raytracer/src/dependencies/imgui/imgui_demo.cpp",
+  "output": "CMakeFiles/raytracer.dir/home/qewa/Coding/raytracer/src/dependencies/imgui/imgui_demo.cpp.o"
+},
+{
+  "directory": "/home/qewa/Coding/raytracer/cmake/cmake_files/Unix Makefiles/Release/clang++",
+  "command": "/usr/bin/clang++  -I/home/qewa/Coding/raytracer/src -I/home/qewa/Coding/raytracer/src/dependencies/imgui -O3 -DNDEBUG -std=c++23 -o CMakeFiles/raytracer.dir/home/qewa/Coding/raytracer/src/dependencies/imgui/imgui_draw.cpp.o -c /home/qewa/Coding/raytracer/src/dependencies/imgui/imgui_draw.cpp",
+  "file": "/home/qewa/Coding/raytracer/src/dependencies/imgui/imgui_draw.cpp",
+  "output": "CMakeFiles/raytracer.dir/home/qewa/Coding/raytracer/src/dependencies/imgui/imgui_draw.cpp.o"
+},
+{
+  "directory": "/home/qewa/Coding/raytracer/cmake/cmake_files/Unix Makefiles/Release/clang++",
+  "command": "/usr/bin/clang++  -I/home/qewa/Coding/raytracer/src -I/home/qewa/Coding/raytracer/src/dependencies/imgui -O3 -DNDEBUG -std=c++23 -o CMakeFiles/raytracer.dir/home/qewa/Coding/raytracer/src/dependencies/imgui/imgui_tables.cpp.o -c /home/qewa/Coding/raytracer/src/dependencies/imgui/imgui_tables.cpp",
+  "file": "/home/qewa/Coding/raytracer/src/dependencies/imgui/imgui_tables.cpp",
+  "output": "CMakeFiles/raytracer.dir/home/qewa/Coding/raytracer/src/dependencies/imgui/imgui_tables.cpp.o"
+},
+{
+  "directory": "/home/qewa/Coding/raytracer/cmake/cmake_files/Unix Makefiles/Release/clang++",
+  "command": "/usr/bin/clang++  -I/home/qewa/Coding/raytracer/src -I/home/qewa/Coding/raytracer/src/dependencies/imgui -O3 -DNDEBUG -std=c++23 -o CMakeFiles/raytracer.dir/home/qewa/Coding/raytracer/src/dependencies/imgui/imgui_widgets.cpp.o -c /home/qewa/Coding/raytracer/src/dependencies/imgui/imgui_widgets.cpp",
+  "file": "/home/qewa/Coding/raytracer/src/dependencies/imgui/imgui_widgets.cpp",
+  "output": "CMakeFiles/raytracer.dir/home/qewa/Coding/raytracer/src/dependencies/imgui/imgui_widgets.cpp.o"
+},
+{
+  "directory": "/home/qewa/Coding/raytracer/cmake/cmake_files/Unix Makefiles/Release/clang++",
+  "command": "/usr/bin/clang++  -I/home/qewa/Coding/raytracer/src -I/home/qewa/Coding/raytracer/src/dependencies/imgui -O3 -DNDEBUG -std=c++23 -o CMakeFiles/raytracer.dir/home/qewa/Coding/raytracer/src/dependencies/imgui/misc/cpp/imgui_stdlib.cpp.o -c /home/qewa/Coding/raytracer/src/dependencies/imgui/misc/cpp/imgui_stdlib.cpp",
+  "file": "/home/qewa/Coding/raytracer/src/dependencies/imgui/misc/cpp/imgui_stdlib.cpp",
+  "output": "CMakeFiles/raytracer.dir/home/qewa/Coding/raytracer/src/dependencies/imgui/misc/cpp/imgui_stdlib.cpp.o"
+},
+{
+  "directory": "/home/qewa/Coding/raytracer/cmake/cmake_files/Unix Makefiles/Release/clang++",
+  "command": "/usr/bin/clang++  -I/home/qewa/Coding/raytracer/src -I/home/qewa/Coding/raytracer/src/dependencies/imgui -O3 -DNDEBUG -std=c++23 -o CMakeFiles/raytracer.dir/home/qewa/Coding/raytracer/src/hittable/aabb.cpp.o -c /home/qewa/Coding/raytracer/src/hittable/aabb.cpp",
+  "file": "/home/qewa/Coding/raytracer/src/hittable/aabb.cpp",
+  "output": "CMakeFiles/raytracer.dir/home/qewa/Coding/raytracer/src/hittable/aabb.cpp.o"
+},
+{
+  "directory": "/home/qewa/Coding/raytracer/cmake/cmake_files/Unix Makefiles/Release/clang++",
+  "command": "/usr/bin/clang++  -I/home/qewa/Coding/raytracer/src -I/home/qewa/Coding/raytracer/src/dependencies/imgui -O3 -DNDEBUG -std=c++23 -o CMakeFiles/raytracer.dir/home/qewa/Coding/raytracer/src/hittable/bvh.cpp.o -c /home/qewa/Coding/raytracer/src/hittable/bvh.cpp",
+  "file": "/home/qewa/Coding/raytracer/src/hittable/bvh.cpp",
+  "output": "CMakeFiles/raytracer.dir/home/qewa/Coding/raytracer/src/hittable/bvh.cpp.o"
+},
+{
+  "directory": "/home/qewa/Coding/raytracer/cmake/cmake_files/Unix Makefiles/Release/clang++",
+  "command": "/usr/bin/clang++  -I/home/qewa/Coding/raytracer/src -I/home/qewa/Coding/raytracer/src/dependencies/imgui -O3 -DNDEBUG -std=c++23 -o CMakeFiles/raytracer.dir/home/qewa/Coding/raytracer/src/hittable/hittableList.cpp.o -c /home/qewa/Coding/raytracer/src/hittable/hittableList.cpp",
+  "file": "/home/qewa/Coding/raytracer/src/hittable/hittableList.cpp",
+  "output": "CMakeFiles/raytracer.dir/home/qewa/Coding/raytracer/src/hittable/hittableList.cpp.o"
+},
+{
+  "directory": "/home/qewa/Coding/raytracer/cmake/cmake_files/Unix Makefiles/Release/clang++",
+  "command": "/usr/bin/clang++  -I/home/qewa/Coding/raytracer/src -I/home/qewa/Coding/raytracer/src/dependencies/imgui -O3 -DNDEBUG -std=c++23 -o CMakeFiles/raytracer.dir/home/qewa/Coding/raytracer/src/hittable/quad.cpp.o -c /home/qewa/Coding/raytracer/src/hittable/quad.cpp",
+  "file": "/home/qewa/Coding/raytracer/src/hittable/quad.cpp",
+  "output": "CMakeFiles/raytracer.dir/home/qewa/Coding/raytracer/src/hittable/quad.cpp.o"
+},
+{
+  "directory": "/home/qewa/Coding/raytracer/cmake/cmake_files/Unix Makefiles/Release/clang++",
+  "command": "/usr/bin/clang++  -I/home/qewa/Coding/raytracer/src -I/home/qewa/Coding/raytracer/src/dependencies/imgui -O3 -DNDEBUG -std=c++23 -o CMakeFiles/raytracer.dir/home/qewa/Coding/raytracer/src/hittable/sphere.cpp.o -c /home/qewa/Coding/raytracer/src/hittable/sphere.cpp",
+  "file": "/home/qewa/Coding/raytracer/src/hittable/sphere.cpp",
+  "output": "CMakeFiles/raytracer.dir/home/qewa/Coding/raytracer/src/hittable/sphere.cpp.o"
+}
+]

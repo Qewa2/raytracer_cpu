@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/qewa/Coding/raytracer/cmake/cmake_files/Unix Makefiles/Release/g++/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

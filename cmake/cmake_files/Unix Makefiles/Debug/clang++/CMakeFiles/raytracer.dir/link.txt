@@ -1,0 +1,1 @@
+/usr/bin/clang++ -g -Xlinker --dependency-file=CMakeFiles/raytracer.dir/link.d CMakeFiles/raytracer.dir/home/qewa/Coding/raytracer/src/Application/main.cpp.o -o "/home/qewa/Coding/raytracer/build/Unix Makefiles/Debug/clang++/raytracer"

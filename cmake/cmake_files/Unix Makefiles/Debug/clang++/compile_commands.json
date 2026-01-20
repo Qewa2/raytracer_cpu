@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/qewa/Coding/raytracer/cmake/cmake_files/Unix Makefiles/Debug/clang++",
+  "command": "/usr/bin/clang++  -I/home/qewa/Coding/raytracer/src -g -std=c++11 -o CMakeFiles/raytracer.dir/home/qewa/Coding/raytracer/src/Application/main.cpp.o -c /home/qewa/Coding/raytracer/src/Application/main.cpp",
+  "file": "/home/qewa/Coding/raytracer/src/Application/main.cpp",
+  "output": "CMakeFiles/raytracer.dir/home/qewa/Coding/raytracer/src/Application/main.cpp.o"
+}
+]
